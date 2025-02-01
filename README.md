@@ -1,1 +1,1 @@
-# hackathon-2-Resume-Builder
+# Hackathon-milestone-2
